@@ -1,5 +1,5 @@
 # 0xNoshiro // Layer 7 🌌
-
+> [!CAUTION]
 > **"Lost in the layers of abstraction, where the patterns define reality and the filter dictates what survives."**
 
 A dedicated **Layer 7 Security Researcher** and Linux developer focused on pattern analysis, protocol manipulation, and deep application-level vulnerability research. Whispering commands to the shell and breaking structures through logical flaws.

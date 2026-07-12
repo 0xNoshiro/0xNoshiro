@@ -1,3 +1,6 @@
+[KLICK ME](rdx.md)
+
+
 # 0xNoshiro // Layer 7 🌌
 > [!CAUTION]
 > **"Lost in the layers of abstraction, where the patterns define reality and the filter dictates what survives."**
